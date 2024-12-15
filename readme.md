@@ -1,4 +1,5 @@
- # passport-roblox
+ # passport-roblox ( modified cuz it won't get the user profile )
+
 
  Passport strategy for [Roblox](https://roblox.com)
  
